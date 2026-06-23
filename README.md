@@ -5,10 +5,11 @@ I am a final-year Informatics Engineering student at Universitas Nusa Putra with
 ---
 
 ## Connect with me
-|<a href="https://www.linkedin.com/in/aldi-setiawan29" target="_blank">
+<a href="https://www.linkedin.com/in/aldi-setiawan29" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 
-[Email](mailto:rikimandtemand@gmail.com)
+(mailto:rikimandtemand@gmail.com)
+<img src="https://skillicons.dev/icons?i=email" alt="LinkedIn" />
 
 ---
 
