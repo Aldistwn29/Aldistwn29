@@ -17,7 +17,7 @@ I am a final-year Informatics Engineering student at Universitas Nusa Putra with
 ## Languages and Tools
 
 <p>
- <img src="https://skillicons.dev/icons?i=html,css,tailwind,python,javascript,java,laravel,php,react,nextjs,js,mysql,postgres,git,github,linux," />
+ <img src="https://skillicons.dev/icons?i=python,javascript,java,laravel,php,html,css,tailwind,react,nextjs,mysql,postgres,git,github,linux," />
 </p>
 
 ---
