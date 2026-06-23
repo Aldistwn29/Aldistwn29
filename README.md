@@ -8,15 +8,16 @@ I am a final-year Informatics Engineering student at Universitas Nusa Putra with
 <a href="https://www.linkedin.com/in/aldi-setiawan29" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 
-(mailto:rikimandtemand@gmail.com)
-<img src="https://skillicons.dev/icons?i=email" alt="LinkedIn" />
+<a href="mailto:rikimandtemand@gmail.com?subject=Hello%20Aldi%20Setiawan" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+</a>
 
 ---
 
 ## Languages and Tools
 
 <p>
- <img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,js,mysql,postgres,git,github,linux,html,css,tailwind" />
+ <img src="https://skillicons.dev/icons?i=html,css,tailwind,python,javascript,java,laravel,php,react,nextjs,js,mysql,postgres,git,github,linux," />
 </p>
 
 ---
