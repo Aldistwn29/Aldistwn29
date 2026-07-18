@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aldi Setiawan
 
-I am a final-year Informatics Engineering student and Junior Software Engineer with experience building full-stack web applications. I primarily work with Laravel, React, Next.js, and TypeScript, supported by PHP, JavaScript, Python, relational databases, Git, and Linux.
+I am a final-year Informatics Engineering student and Junior Software Engineer with experience building full-stack web applications. I help turn ideas and operational needs into practical, user-friendly, and maintainable digital solutions.
 
 ## Connect with Me
 
