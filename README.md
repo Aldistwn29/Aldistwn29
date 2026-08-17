@@ -3,15 +3,15 @@
 I am a final-year Informatics Engineering student and Junior Software Engineer with experience building full-stack web applications. I help turn ideas and operational needs into practical, user-friendly, and maintainable digital solutions.
 
 ## Connect with Me
-**Reach out to me:** [rikimandtemand@gmail.com](mailto:rikimandtemand@gmail.com)
 
 <a href="https://www.linkedin.com/in/aldi-setiawan29">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-
 <a href="https://instagram.com/aldi.stwn29">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
+
+**Reach out to me:** [rikimandtemand@gmail.com](mailto:rikimandtemand@gmail.com)
 
 
 
