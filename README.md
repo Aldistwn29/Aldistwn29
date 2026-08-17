@@ -8,6 +8,8 @@ I am a final-year Informatics Engineering student and Junior Software Engineer w
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
+**Reach out to me:** [rikimandtemand@gmail.com](mailto:rikimandtemand@gmail.com)
+
 ## Tech Stack
 
 <p>
