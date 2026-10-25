@@ -11,7 +11,7 @@ I am a final-year Informatics Engineering student and Junior Software Engineer w
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
-**Reach out to me:** [aldi60051@gmail.com](mailto:rikimandtemand@gmail.com)
+**Reach out to me:** [rikimandtemand@gmail.com](mailto:rikimandtemand@gmail.com)
 
 
 
