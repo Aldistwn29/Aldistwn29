@@ -18,5 +18,5 @@ I am a final-year Informatics Engineering student and Junior Software Engineer w
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,java,python,tailwind,bootstrap,react,nextjs,laravel,spring,docker,git,linux" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=javascript,java,python,tailwind,bootstrap,react,nextjs,laravel,spring,docker,linux" alt="Technology stack" />
 </p>
